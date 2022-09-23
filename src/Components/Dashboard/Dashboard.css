@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+table{
+    text-align: center;
+    border: 1px solid #111;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+
+td{
+    border: 1px solid #888;
+}
+
+.bigname{
+    font-size: 20px;
+    font-weight: 600;
+}
